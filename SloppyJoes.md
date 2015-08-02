@@ -17,9 +17,9 @@ This is a very basic and easy Sloppy Joe recipie. I believe it is based on this 
 | Chopped Onion | 1 medium onion | 1 medium onion |
 | Chopped Bell Pepper | 1 pepper | 1 pepper |
 | Garlic Powder | &frac12; tsp | 2 ml |
-| Yellow Mustard | %frac14; cup | 57 g |
+| Yellow Mustard | &frac14; cup | 57 g |
 | Ketchup | 1 cup | 225 g |
-| Brown Sugar | 1 tbsp | 14 g |
+| Brown Sugar | 1 tbsp | 15 ml |
 | Salt | to taste | to taste |
 | Ground Black Pepper | to taste | to taste |
 
