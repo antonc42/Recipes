@@ -2,11 +2,11 @@
 
 ## Description
 
-This Italian twist on the traditional meatloaf is based on this [Italian Meatloaf](http://www.food.com/recipe/italian-meatloaf-202974) recipe.
+An Italian twist on the traditional meatloaf based on this [Italian Meatloaf](http://www.food.com/recipe/italian-meatloaf-202974) recipe.
 
 ## Notes
 
-* Note
+* Marinara sauce can be used to top the meatloaf if desired
 
 ### Ingredients
 
@@ -29,4 +29,8 @@ This Italian twist on the traditional meatloaf is based on this [Italian Meatloa
 
 ### Preparation
 
-1. Steps
+1. Use the olive oil to saute the bell pepper, onion, and garlic just until soft.
+1. Combine the sauteed bell pepper, onions, and garlic with the rest of the ingredients.
+1. Pack into an oiled loaf pan or form into a loaf shape on an oiled tray or dish.
+1. Bake for about 50 to 60 minutes or until a probe thermometer registers 160 &deg;F in the middle.
+1. Remove from the oven and let rest for 5 minutes. Slice and serve.
