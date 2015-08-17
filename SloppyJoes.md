@@ -26,6 +26,6 @@ This is a very basic and easy Sloppy Joe recipie. I believe it is based on this 
 ### Preparation
 
 1. Brown the ground beef with the onions and bell pepper.
-2. Drain the excess grease.
-3. Add the remaining ingredients (garlic, mustard, ketchup, brown sugar, salt, and pepper).
-4. Reduce the heat, cover, and simmer for about 30 minutes. Uncover near the end if it looks too thin.
+1. Drain the excess grease.
+1. Add the remaining ingredients (garlic, mustard, ketchup, brown sugar, salt, and pepper).
+1. Reduce the heat, cover, and simmer for about 30 minutes. Uncover near the end if it looks too thin.

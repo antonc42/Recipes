@@ -7,7 +7,7 @@ This easy Italian beef recipe can be put in a slow cooker all day or overnight. 
 ## Notes
 
 * Pepperoncinis can be whole or sliced. If whole, they are easier to pick out.
-* The bread or bun used should be a drier variety like Italian or French bread. The juice will soften it up. Softer breads may just disentegrate.
+* The bread or bun used should be a drier variety like Italian or French bread. The juice will soften it up. Softer breads may just disintegrate.
 
 ### Ingredients
 
@@ -29,9 +29,9 @@ This easy Italian beef recipe can be put in a slow cooker all day or overnight. 
 ### Preparation
 
 1. Combine water, salt, pepper, oregano, basil, onion salt, parsley, garlic, bay leaf, and salad dressing mix in a saucepan. Stir to combine and bring to a boil.
-2. Place the roast in a slow cooker and pour mixture over the meat.
-3. Pour jar of pepperoncinis in as well.
-4. Cover and let cook on low for 10 to 12 hours or high for 4 to 5 hours.
-5. Remove bay leaf. Optionally, remove pepperoncinis.
-6. Shred beef with a fork.
-7. Serve on a bun with plenty of juice.
+1. Place the roast in a slow cooker and pour mixture over the meat.
+1. Pour jar of pepperoncinis in as well.
+1. Cover and let cook on low for 10 to 12 hours or high for 4 to 5 hours.
+1. Remove bay leaf. Optionally, remove pepperoncinis.
+1. Shred beef with a fork.
+1. Serve on a bun with plenty of juice.
