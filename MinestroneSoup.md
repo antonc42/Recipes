@@ -11,7 +11,7 @@ From [this copycat recipe](http://www.food.com/recipe/copycat-olive-garden-mines
 | Minced White Onion | 1 cup | 240 ml |
 | Chopped Zucchini | &frac12; cup | 120 ml |
 | Frozen Italian Cut Grean Beans | &frac12; cup | 120 ml |
-| Minced Celery | %frac14; cup | 60 ml |
+| Minced Celery | &frac14; cup | 60 ml |
 | Minced Garlic | 4 tsp | 20 ml |
 | Vegetable Broth | 4 cups | 950 ml |
 | Red Kidney Beans (drained) | 2 15oz cans | 445 ml |
