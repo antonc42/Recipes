@@ -2,9 +2,7 @@
 
 ## Description
 
-## Notes
-
-* Note
+Vegetable stir-fry I made up myself. Fairly low-calorie.
 
 ### Ingredients
 
