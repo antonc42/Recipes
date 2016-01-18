@@ -29,4 +29,10 @@
 
 ### Preparation
 
-1. Steps
+1. Melt butter in very large skillet or pot.
+2. Sautee onions, garlic and carrots.
+3. Add zucchini, squash, and bell pepper.
+4. Add stir-fry sauce, vinegar, soy sauce, and worchestershire.
+5. Cook for a few minutes.
+6. Stir in noodles.
+7. Add broccoli to top, place lid, and steam for a few minutes.
