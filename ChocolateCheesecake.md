@@ -8,8 +8,8 @@ TOTAL TIME: Prep: 20 min. Bake: 40 min. + chilling YIELD: 12 servings.
 Ingredients
 
 * 1 cup crushed chocolate wafer crumbs
-* 3 tablespoons sugar
-* 3 tablespoons butter, melted
+* 2 tablespoons sugar
+* 5 tablespoons butter, melted
 
 FILLING:
 
