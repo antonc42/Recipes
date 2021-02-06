@@ -1,5 +1,4 @@
 # Cardamom Cinnamon Rolls with Buttermilk Glaze Recipe  
-No need to cruise the local mall to get this sticky bun.  
 by Melissa Weller  
 https://www.vice.com/en_us/article/9ke8q3/cardamom-cinnamon-rolls-with-buttermilk-glaze-recipe
 
@@ -15,7 +14,7 @@ Total time: 6 hours
 | Eggs | 4 large | |
 | Whole milk | &frac13; cup | 80 ml |
 | All-purpose flour | 2 cups | 240 grams |
-| Whole wheat pastry flour | 1 $frac12; cups | 158 grams |
+| Whole wheat pastry flour | 1 &frac12; cups | 158 grams |
 | Granulated sugar | &frac12; cup | 63 grams |
 | Instant yeast | 2 teaspoons | |
 | Fine sea salt| 2 teaspoons | |
