@@ -11,7 +11,7 @@
 |:-----------|:------|:------|
 | Butter-Flavored Shortening | 1c |  |
 | Flour | 2 &frac12; c |  |
-| Salt | %frac12; tsp |  |
+| Salt | &frac12; tsp |  |
 | Egg | 1 |  |
 | Ice water | &frac12; c |  |
 | Apple cider vinegar | 1 Tbsp |  |
