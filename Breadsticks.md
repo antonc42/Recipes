@@ -1,26 +1,32 @@
+# Copycat Olive Garden Breadsticks
+
+## Description
+This simple recipe for Copycat Olive Garden Breadsticks makes buttery, garlic-scented, and chewy breadsticks that are utterly addictive!  
+Yields: 12 breadsticks
+
+Recipe by Tessa  
 https://www.handletheheat.com/copycat-olive-garden-breadsticks/
 
-Copycat Olive Garden Breadsticks
-This simple recipe for Copycat Olive Garden Breadsticks makes buttery, garlic-scented, and chewy breadsticks that are utterly addictive!
-Yields: 12 breadsticks
-Recipe by Tessa
-Ingredients
-For the dough:
 
-    1 cup plus 2 tablespoons warm water
-    1 1/2 teaspoons instant yeast
-    2 tablespoons granulated sugar
-    3 tablespoons unsalted butter, melted
-    1 3/4 teaspoons salt
-    16 ounces (about 3 1/3 to 3 1/2 cups) bread flour
+### Ingredients
+#### Dough
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Warm water | 1c + 2 Tbsp | 250 g |
+| Instant yeast | 1 &frac12; tsp | 4.3 g |
+| Granulated sugar | 2 Tbsp | 25 g |
+| Unsalted butter, melted | 3 Tbsp | 42 g |
+| Salt | 1 &frac34; tsp | |
+| Bread flour | 3 c | 381 g |
 
-For the topping:
+#### Topping
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Unsalted butter, melted | 2 Tbsp | 28 g |
+| Kosher salt | &frac12; tsp | |
+| Garlic powder | &frac14; tsp | |
 
-    2 tablespoons unsalted butter, melted
-    1/2 teaspoon kosher salt
-    1/4 teaspoon garlic powder
-
-Directions
+### Preparation
 
 1. In the bowl of a standing mixer, combine the water, yeast, sugar, and butter. Add in the salt. Attach the dough hook to the mixer and begin to gradually add the flour on low speed. Increase speed to medium and knead the dough for about 7 minutes, or until it is smooth and elastic.
 2. Remove the dough to a lightly oiled bowl and cover with plastic wrap. Let rest in a warm place until doubled in size, about 1 1/2 hours.
